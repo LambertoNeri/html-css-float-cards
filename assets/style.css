@@ -39,17 +39,23 @@ p{
     margin-bottom: 2rem;
     word-wrap: break-word;
     float: left;
+    max-height: 8rem;
+    overflow: hidden;
+   
 }
 
 img{
     margin-right: 1em;
     height: 7em;
     float: left;
+    
+
 }
 
 h2{
     padding-top: 0.7rem;
     margin-bottom: 0.7rem;
+    display: block;
 }
 
 a{
@@ -58,3 +64,8 @@ a{
     color: rgb(0, 174, 255);
 }
 
+
+span{
+    display: block;
+}
+ 
