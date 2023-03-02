@@ -21,4 +21,35 @@ p{
     text-align: center;
     font-style: italic;
     font-size: 1.4rem;
+    margin-bottom: 3rem;
 }
+
+.pics{
+    
+}
+.card{
+    width: calc(95% / 3 - 1rem);
+    float: left;
+    background-color: rgb(2, 2, 29);
+    box-shadow:0px 0px 10px 1px black;
+    color: white;
+    margin-left: 2rem;
+    margin-bottom: 4rem;
+}
+
+img{
+    margin-right: 1em;
+    height: 7em;
+    float: left;
+}
+
+h2{
+    padding-top: 0.7rem;
+    margin-bottom: 0.7rem;
+}
+
+a{
+    padding-top: 0.7rem;
+    display: block;
+}
+
