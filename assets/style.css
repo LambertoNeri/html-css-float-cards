@@ -26,9 +26,6 @@ p{
     margin-bottom: 3rem;
 }
 
-.pics{
-    margin-bottom: 0rem;
-}
 .card{
     width: calc(95% / 3 - 1rem);
     background-color: rgb(2, 2, 29);
@@ -40,8 +37,9 @@ p{
     float: left;
     max-height: 8rem;
     overflow: hidden;
-   
+    min-width: 280px;
 }
+   
 
 img{
     margin-right: 1em;
@@ -67,4 +65,4 @@ a{
 span{
     display: block;
 }
- 
+
