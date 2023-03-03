@@ -31,7 +31,6 @@ p{
 }
 .card{
     width: calc(95% / 3 - 1rem);
-    
     background-color: rgb(2, 2, 29);
     box-shadow:0px 0px 10px 1px black;
     color: white;
